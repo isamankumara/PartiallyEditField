@@ -46,9 +46,9 @@ If you are new to CocoaPods, please go to [Wiki](https://github.com/skywite/SWNe
 _rightPreTxtField.preTextSide = kLeft;
 ```
 
-### `More` info and dificulities  
+### `More` info, features and dificulities  
 
-Go to [About PartiallyEditField]((https://isamankumara.com/frameworks/)) and how to use attributted place holder
+Go to [About PartiallyEditField](https://isamankumara.com/2017/09/12/how-to-use-par…d-and-features) and how to use attributted place holder
 
 # Credits
 

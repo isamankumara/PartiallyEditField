@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PartiallyEditField"
-  s.version          = "0.2"
+  s.version          = "0.3"
   s.summary          = "Open Source libary for add pre text on iOS"
   s.description      = "PartiallyEditField is a open-source and Clean code and sleek features. Start development using PartiallyEditField. Definitely you will be happy....! yeah.."
   s.homepage         = "https://github.com/isamankumara/PartiallyEditField"
