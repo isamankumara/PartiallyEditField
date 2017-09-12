@@ -1,2 +1,3 @@
 language: objective-c
-xcode_project: "PartiallyEditField\ Example/PartiallyEditFieldExample.xcodeproj"
+xcode_project: PartiallyEditFieldExample/PartiallyEditFieldExample.xcodeproj
+os: osx
