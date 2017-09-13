@@ -15,7 +15,7 @@ This need uikit that's only thing you need.
 
 #How to apply to Xcode project
 ### Downloading Source Code
-- [Download SWNetworking](https://github.com/isamankumara/PartiallyEditField/archive/master.zip) from gitHub
+- [Download PartiallyEditField](https://github.com/isamankumara/PartiallyEditField/archive/master.zip) from gitHub
 - Add required frameworks
 - import "PartiallyEditField.h" to your source code file
 
